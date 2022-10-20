@@ -121,4 +121,4 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Celebrate your contribution and share it with your friends on Discord
 
-You could join our Discord if you need any help or have any questions. [Join Discord team](https://acmatuab.org/discord).
+You could join our Discord if you need any help or have any questions. [Join Our Discord](https://acmatuab.org/discord).
