@@ -8,7 +8,7 @@ Please notice how the link is formatted. It is in the format of [link text](link
 Also notice how there is a little dash at the beginning
 -->
 - Michael Gathara - Junior - Computer Science - Mathematics - [GitHub](https://michaelgathara.com/github)
--
+- Stephen Rogers - - Computer Science - [GitHub](https://github.com/grogersstephen)-
 -
 -
 -
