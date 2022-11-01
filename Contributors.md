@@ -8,9 +8,10 @@ Please notice how the link is formatted. It is in the format of [link text](link
 Also notice how there is a little dash at the beginning
 -->
 - Michael Gathara - Junior - Computer Science - Mathematics - [GitHub](https://michaelgathara.com/github)
+- Neha Moolchandani - Junior - Computer Science - Infromation Systems & Finance - [GitHub](https://github.com/neha-m01)
 - Stephen Rogers - - Computer Science - [GitHub](https://github.com/grogersstephen)-
 - Sheila Subbiah - Management Information Systems - Masters - [Sheila's GitHub](https://github.com/userGitHub34535)
--
+- 
 -
 -
 Do not edit below this line.
