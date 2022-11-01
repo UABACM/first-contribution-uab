@@ -9,7 +9,7 @@ Also notice how there is a little dash at the beginning
 -->
 - Michael Gathara - Junior - Computer Science - Mathematics - [GitHub](https://michaelgathara.com/github)
 - Stephen Rogers - - Computer Science - [GitHub](https://github.com/grogersstephen)-
--
+- Sheila Subbiah - Management Information Systems - Masters - [Sheila's GitHub](https://github.com/userGitHub34535)
 -
 -
 -
