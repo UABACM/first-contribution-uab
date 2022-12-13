@@ -119,6 +119,6 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
 
-Celebrate your contribution and share it with your friends on Discord
+Celebrate your contribution and share it with your friends and potential employers as proof of your ability to use Git and Github
 
 Join our Discord if you have any questions or need any help and just to be a part of the UAB CS community. [Join Our Discord](https://acmatuab.org/discord).
