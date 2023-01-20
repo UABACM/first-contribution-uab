@@ -13,4 +13,6 @@ Also notice how there is a little dash at the beginning
 - Sheila Subbiah - Management Information Systems - Masters - [Sheila's GitHub](https://github.com/userGitHub34535)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
 - Caleb Sprinkle - Senior - Computer Science - [GitHub](https://github.com/csprinkl)
+- Raven Warner - Senior - Computer Science - [GitHub] (https://github.com/r-x-w)
+-
 Do not edit below this line.
