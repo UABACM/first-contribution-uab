@@ -15,6 +15,7 @@ Also notice how there is a little dash at the beginning
 - Tena Rosenblum
 - Eli Davis - Senior - Computer Science - Japanese - [GitHub](https://github.com/Bekwayman)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
+- Jesus Zubia - Senior - Computer Science - [GitHub](https://github.com/jzubia25),AKA SAUCE-GOD
 - Victoria Sutton - Senior - Computer Science - Music - [GitHub](https://github.com/vicsutt2)
 - James Jester - Senior - Computer Science - [GitHub](https://github.com/francoisdillinger)
 - Kamya Patel - Senior - Computer Science - Mathematics - Management -[Github](https://github.com/kamyapatel)
