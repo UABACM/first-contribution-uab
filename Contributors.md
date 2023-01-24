@@ -17,6 +17,7 @@ Also notice how there is a little dash at the beginning
 - Tena Rosenblum
 - Eli Davis - Senior - Computer Science - Japanese - [GitHub](https://github.com/Bekwayman)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
+- Jackson Hyde - Senior - Computer Science - [GitHub](https://github.com/choboribi)
 - Debbie Fu - Senior - Computer Science, Biology - Chemistry - [GitHub](https://github.com/debbiexfu)
 - Preet Patel - Senior - Computer Science - [GitHub](https://github.com/Preetp8)
 - Tay Richardson - Senior - Computer Science - [GitHub](https://github.com/crich725)
