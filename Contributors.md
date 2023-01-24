@@ -15,6 +15,7 @@ Also notice how there is a little dash at the beginning
 - Tena Rosenblum
 - Eli Davis - Senior - Computer Science - Japanese - [GitHub](https://github.com/Bekwayman)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
+- Skyler Bolton - Senior - Computer Science - Accounting, Information Systems - [Github](https://github.com/SkylerBolton07)
 - Hamid Choucha -Senior- Computer Science -[GitHub],(https://github.com/hamidc10)
 - John Tompkins - Senior - Computer Science - [Github] (https://github.com/Scithur)
 - Robert Gulley - senior - Computer Science - Mathematics -[Robert's Github](https://github.com/Robertlg2000)
