@@ -2,7 +2,7 @@
 ![Discord Shield](https://discord.com/api/guilds/672280055128260617/widget.png?style=shield)
 # ACM @ UAB First Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below. This is a ACM @ UAB repository, check us out [here](https://acmatuab.org/) -> https://acmatuab.org/ 
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
