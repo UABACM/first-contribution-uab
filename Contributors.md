@@ -15,6 +15,7 @@ Also notice how there is a little dash at the beginning
 - Tena Rosenblum
 - Eli Davis - Senior - Computer Science - Japanese - [GitHub](https://github.com/Bekwayman)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
+- Daniel Scroggins - Senior - Computer Science - [GitHub](https://github.com/dscrogg399)
 - Tasheem Hargrove - Senior - Computer Science - [Tasheem's Github](https://github.com/Tasheem)
 - Jesus Zubia - Senior - Computer Science - [GitHub](https://github.com/jzubia25),AKA SAUCE-GOD
 - Victoria Sutton - Senior - Computer Science - Music - [GitHub](https://github.com/vicsutt2)
