@@ -15,6 +15,7 @@ Also notice how there is a little dash at the beginning
 - Tena Rosenblum
 - Eli Davis - Senior - Computer Science - Japanese - [GitHub](https://github.com/Bekwayman)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
+- Nodira Berdieva - Senior - Computer Science [GitHub](https://github.com/nodirab)
 - Quinton Coley - Senior - Computer Science - Mathematics - [Github](https://github.com/qcoley)
 - Aaron Zheng - Senior - Computer Science - [GitHub](https://github.com/erusaert)
 - Daniel Scroggins - Senior - Computer Science - [GitHub](https://github.com/dscrogg399)
