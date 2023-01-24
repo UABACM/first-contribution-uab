@@ -15,6 +15,7 @@ Also notice how there is a little dash at the beginning
 - Tena Rosenblum
 - Eli Davis - Senior - Computer Science - Japanese - [GitHub](https://github.com/Bekwayman)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
+- Kyle Winn - Senior - Computer Science - Spanish - [GitHub] (https://github.com/williamkylewinn)
 - Trevor Bell - Senior - Computer Science - [GitHub] (https://github.com/BellBRO23)
 - Logan Mottern - Senior - Computer Science - [GitHub](https://github.com/lmottern)
 - Tanner Tavel - Senior - Computer Science - [GitHub]
