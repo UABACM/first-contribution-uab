@@ -15,6 +15,7 @@ Also notice how there is a little dash at the beginning
 - Tena Rosenblum
 - Eli Davis - Senior - Computer Science - Japanese - [GitHub](https://github.com/Bekwayman)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
+- Tanner Tavel - Senior - Computer Science - [GitHub]
 - Sophie Inchyna - Senior - Computer Science|Neuroscience - [GitHub](https://github.com/katarsolar)
 - Kodie Box - Senior - Computer Science - [GitHub](https://github.com/kodiebox)
 - Carter Bellew - Senior - Computer Science & Criminal Justice - Forensic Science - https://github.com/carterbellew
