@@ -17,5 +17,5 @@ Also notice how there is a little dash at the beginning
 - Shaylan Woods - Senior - Computer Science - [GitHub](https://github.com/ShaylanWoods)
 - Caleb Sprinkle - Senior - Computer Science - [GitHub](https://github.com/csprinkl)
 - Raven Warner - Senior - Computer Science - [GitHub] (https://github.com/r-x-w)
--
+- Yixuan Liu - Senior - Computer Science - [GitHub] (https://github.com/Yixuan2022)
 Do not edit below this line.
