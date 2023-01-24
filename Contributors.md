@@ -15,6 +15,7 @@ Also notice how there is a little dash at the beginning
 - Tena Rosenblum
 - Eli Davis - Senior - Computer Science - Japanese - [GitHub](https://github.com/Bekwayman)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
+- Joseph Margolies - Senior - Computer Science - Political Science - [Github](https://github.com/JoeLauM)
 - John Contella - Senior - Computer Science - [Github](https://github.com/ContellaJP)
 - Bradley Vanderbilt - Senior - Computer Science - Mathematics - [GitHub](https://github.com/BradleyVanderbilt)
 - Zachary Naden - Senior - Computer science- No Minor- [GitHub]]https://github.com/znaden
