@@ -12,6 +12,7 @@ Also notice how there is a little dash at the beginning
 - Stephen Rogers - - Computer Science - [GitHub](https://github.com/grogersstephen)-
 - Sheila Subbiah - Management Information Systems - Masters - [Sheila's GitHub](https://github.com/userGitHub34535)
 - Tena Rosenblum
+- Eli Davis - Senior - Computer Science - Japanese - [GitHub](https://github.com/Bekwayman)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
 - Carter Bellew - Senior - Computer Science & Criminal Justice - Forensic Science - https://github.com/carterbellew
 - Shaylan Woods - Senior - Computer Science - [GitHub](https://github.com/ShaylanWoods)
