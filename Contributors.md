@@ -1,4 +1,5 @@
 # ACM @ UAB First Contributions Repository Contributors
+
 <!---
 Please add in the format of the following example:
 - NAME - YEAR - MAJOR - MINOR - GITHUB LINK
@@ -7,6 +8,7 @@ Please add in the format of the following example:
 Please notice how the link is formatted. It is in the format of [link text](link url). The link text is what will be displayed on the page, and the link url is the url that the link will take you to.
 Also notice how there is a little dash at the beginning
 -->
+
 - Michael Gathara - Junior - Computer Science - Mathematics - [GitHub](https://michaelgathara.com/github)
 - Neha Moolchandani - Junior - Computer Science - Infromation Systems & Finance - [GitHub](https://github.com/neha-m01)
 - Stephen Rogers - - Computer Science - [GitHub](https://github.com/grogersstephen)-
@@ -15,6 +17,7 @@ Also notice how there is a little dash at the beginning
 - Tena Rosenblum
 - Eli Davis - Senior - Computer Science - Japanese - [GitHub](https://github.com/Bekwayman)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
+- Anna Frederick - Senior - Computer Science - [GitHub](https://github.com/agfrederick)
 - Nodira Berdieva - Senior - Computer Science [GitHub](https://github.com/nodirab)
 - Quinton Coley - Senior - Computer Science - Mathematics - [Github](https://github.com/qcoley)
 - Aaron Zheng - Senior - Computer Science - [GitHub](https://github.com/erusaert)
