@@ -37,6 +37,7 @@ Also notice how there is a little dash at the beginning
 - Hamid Choucha -Senior- Computer Science -[GitHub],(https://github.com/hamidc10)
 - John Tompkins - Senior - Computer Science - [Github] (https://github.com/Scithur)
 - Robert Gulley - senior - Computer Science - Mathematics -[Robert's Github](https://github.com/Robertlg2000)
+- Jacob Butcher - Freshman - Computer Science [Github] (https://github.com/JacobButcher-Github)
 - Jesse Lam - Senior - Computer Science - [GitHub](https://github.com/jesselam00)
 - Joseph Margolies - Senior - Computer Science - Political Science - [Github](https://github.com/JoeLauM)
 - John Contella - Senior - Computer Science - [Github](https://github.com/ContellaJP)
