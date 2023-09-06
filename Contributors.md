@@ -57,6 +57,7 @@ Also notice how there is a little dash at the beginning
 - Yixuan Liu - Senior - Computer Science - [GitHub] (https://github.com/Yixuan2022)
 - Venkata Anoora Reddy A - Senior - Computer Science - [GitHub](https://github.com/AnooraReddyUAB)
 - Bhargav Saroj Kumar Y - Senior - Computer Science - [GitHub] (https://github.com/bhargavsaroj)
+- Christopher B. Lentini - Junior - Computer Science - [Github] (http://github.com/IllPigeon)
 Do not edit below this line.
 
 may the forve be with you
