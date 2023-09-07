@@ -55,9 +55,10 @@ Also notice how there is a little dash at the beginning
 - Caleb Sprinkle - Senior - Computer Science - [GitHub](https://github.com/csprinkl)
 - Raven Warner - Senior - Computer Science - [GitHub](https://github.com/r-x-w)
 - Yixuan Liu - Senior - Computer Science - [GitHub](https://github.com/Yixuan2022)
-- Venkata Anoora Reddy A - Senior - Computer Science - [GitHub](https://github.com/AnooraReddyUAB)
+- Venkata Anoora Reddy A - Senior - Computer Science - [GitHub](https://github.com/AnooraReddyUA
 - Bhargav Saroj Kumar Y - Senior - Computer Science - [GitHub](https://github.com/bhargavsaroj)
 - Christopher B. Lentini - Junior - Computer Science - [Github](http://github.com/IllPigeon)
 - Anton Lu - Freshman - Computer Science - [GitHub](https://github.com/antonlu1029)
+- Aaqib Panjwani - Post Baccalaureate Degree Seek - Computer Science [GitHub](https://github.com/aaqibpanjwani)
 Do not edit below this line.
 
