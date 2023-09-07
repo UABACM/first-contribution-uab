@@ -50,14 +50,14 @@ Also notice how there is a little dash at the beginning
 - Tanner Tavel - Senior - Computer Science - [GitHub]
 - Sophie Inchyna - Senior - Computer Science|Neuroscience - [GitHub](https://github.com/katarsolar)
 - Kodie Box - Senior - Computer Science - [GitHub](https://github.com/kodiebox)
-- Carter Bellew - Senior - Computer Science & Criminal Justice - Forensic Science - https://github.com/carterbellew
+- Carter Bellew - Senior - Computer Science & Criminal Justice - Forensic Science - [Github](https://github.com/carterbellew)
 - Shaylan Woods - Senior - Computer Science - [GitHub](https://github.com/ShaylanWoods)
 - Caleb Sprinkle - Senior - Computer Science - [GitHub](https://github.com/csprinkl)
-- Raven Warner - Senior - Computer Science - [GitHub] (https://github.com/r-x-w)
-- Yixuan Liu - Senior - Computer Science - [GitHub] (https://github.com/Yixuan2022)
+- Raven Warner - Senior - Computer Science - [GitHub](https://github.com/r-x-w)
+- Yixuan Liu - Senior - Computer Science - [GitHub](https://github.com/Yixuan2022)
 - Venkata Anoora Reddy A - Senior - Computer Science - [GitHub](https://github.com/AnooraReddyUAB)
-- Bhargav Saroj Kumar Y - Senior - Computer Science - [GitHub] (https://github.com/bhargavsaroj)
-- Anton Lu - Freshman - Computer Science - [GitHub] (https://github.com/antonlu1029)
+- Bhargav Saroj Kumar Y - Senior - Computer Science - [GitHub](https://github.com/bhargavsaroj)
+- Christopher B. Lentini - Junior - Computer Science - [Github](http://github.com/IllPigeon)
+- Anton Lu - Freshman - Computer Science - [GitHub](https://github.com/antonlu1029)
 Do not edit below this line.
 
-may the forve be with you
