@@ -48,16 +48,19 @@ Also notice how there is a little dash at the beginning
 - Trevor Bell - Senior - Computer Science - [GitHub] (https://github.com/BellBRO23)
 - Logan Mottern - Senior - Computer Science - [GitHub](https://github.com/lmottern)
 - Tanner Tavel - Senior - Computer Science - [GitHub]
+- Jonathan Arroyo - Senior - Computer Science
 - Sophie Inchyna - Senior - Computer Science|Neuroscience - [GitHub](https://github.com/katarsolar)
 - Kodie Box - Senior - Computer Science - [GitHub](https://github.com/kodiebox)
-- Carter Bellew - Senior - Computer Science & Criminal Justice - Forensic Science - https://github.com/carterbellew
+- Carter Bellew - Senior - Computer Science & Criminal Justice - Forensic Science - [Github](https://github.com/carterbellew)
 - Shaylan Woods - Senior - Computer Science - [GitHub](https://github.com/ShaylanWoods)
 - Caleb Sprinkle - Senior - Computer Science - [GitHub](https://github.com/csprinkl)
-- Raven Warner - Senior - Computer Science - [GitHub] (https://github.com/r-x-w)
-- Yixuan Liu - Senior - Computer Science - [GitHub] (https://github.com/Yixuan2022)
-- Venkata Anoora Reddy A - Senior - Computer Science - [GitHub](https://github.com/AnooraReddyUAB)
-- Bhargav Saroj Kumar Y - Senior - Computer Science - [GitHub] (https://github.com/bhargavsaroj)
-- Varshini Kaithapuram - Senior - Computer Science - [GitHub] (https://github.com/varshinikaithapuram)
+- Raven Warner - Senior - Computer Science - [GitHub](https://github.com/r-x-w)
+- Yixuan Liu - Senior - Computer Science - [GitHub](https://github.com/Yixuan2022)
+- Venkata Anoora Reddy A - Senior - Computer Science - [GitHub](https://github.com/AnooraReddyUA
+- Bhargav Saroj Kumar Y - Senior - Computer Science - [GitHub](https://github.com/bhargavsaroj)
+- Christopher B. Lentini - Junior - Computer Science - [Github](http://github.com/IllPigeon)
+- Anton Lu - Freshman - Computer Science - [GitHub](https://github.com/antonlu1029)
+- Aaqib Panjwani - Post Baccalaureate Degree Seek - Computer Science [GitHub](https://github.com/aaqibpanjwani)
+- Varshini Kaithapuram - Senior - Computer Science - [GitHub](https://github.com/varshinikaithapuram)
 Do not edit below this line.
 
-may the forve be with you
