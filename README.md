@@ -127,4 +127,4 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Celebrate your contribution and share it with your friends and potential employers as proof of your ability to use Git and Github
 
-Join our Discord if you have any questions or need any help and just to be a part of the UAB CS community. We regularly update our Discord with ways for you to get more invovled, learn about CS [Join Our Discord](https://acmatuab.org/discord).
+Join our Discord if you have any questions or need any help and just to be a part of the UAB CS community. We regularly update our Discord with ways for you to get more involved and learn about CS [Join Our Discord](https://acmatuab.org/discord).
