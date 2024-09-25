@@ -8,7 +8,9 @@ Please add in the format of the following example:
 Please notice how the link is formatted. It is in the format of [link text](link url). The link text is what will be displayed on the page, and the link url is the url that the link will take you to.
 Also notice how there is a little dash at the beginning
 -->
+
 - Michael Gathara - Junior - Computer Science - Mathematics - [GitHub](https://michaelgathara.com/github)
+- Nikoloz Kotrikadze - First Year Graduate - Computer Science - [GitHub](https://github.com/nikaKotrikadze)
 - Akshar Patel - Junior - Computer Science - [Github](https://github.com/akshar2020)
 - Neha Moolchandani - Junior - Computer Science - Infromation Systems & Finance - [GitHub](https://github.com/neha-m01)
 - Stephen Rogers - - Computer Science - [GitHub](https://github.com/grogersstephen)-
@@ -62,5 +64,4 @@ Also notice how there is a little dash at the beginning
 - Anton Lu - Freshman - Computer Science - [GitHub](https://github.com/antonlu1029)
 - Aaqib Panjwani - Post Baccalaureate Degree Seek - Computer Science [GitHub](https://github.com/aaqibpanjwani)
 - Varshini Kaithapuram - Senior - Computer Science - [GitHub](https://github.com/varshinikaithapuram)
-Do not edit below this line.
-
+  Do not edit below this line.
