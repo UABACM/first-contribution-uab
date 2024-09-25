@@ -16,6 +16,7 @@ Also notice how there is a little dash at the beginning
 - Darryl McIntosh - Senior - Computer Science - [Github](https://github.com/darrylkmc)
 - Elle Lohning - Junior - Computer Science - [Github](https://github.com/glohning)
 - Tena Rosenblum
+- Dan Ngo - Junior - Computer Science [GitHub](https://github.com/DanNgo-png)
 - Eli Davis - Senior - Computer Science - Japanese - [GitHub](https://github.com/Bekwayman)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
 - Jackson Hyde - Senior - Computer Science - [GitHub](https://github.com/choboribi)
