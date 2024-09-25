@@ -23,6 +23,7 @@ Also notice how there is a little dash at the beginning
 - Preet Patel - Senior - Computer Science - [GitHub](https://github.com/Preetp8)
 - Tay Richardson - Senior - Computer Science - [GitHub](https://github.com/crich725)
 - Anna Frederick - Senior - Computer Science - [GitHub](https://github.com/agfrederick)
+- Gam Stewart - Sophomore - Computer Science - Mathematics - [GitHub](https://github.com/GamXCs)
 - Nodira Berdieva - Senior - Computer Science [GitHub](https://github.com/nodirab)
 - Quinton Coley - Senior - Computer Science - Mathematics - [Github](https://github.com/qcoley)
 - Aaron Zheng - Senior - Computer Science - [GitHub](https://github.com/erusaert)
