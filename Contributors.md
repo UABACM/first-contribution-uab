@@ -13,7 +13,7 @@ Also notice how there is a little dash at the beginning
 - Nikoloz Kotrikadze - First Year Graduate - Computer Science - [GitHub](https://github.com/nikaKotrikadze)
 - Akshar Patel - Junior - Computer Science - [Github](https://github.com/akshar2020)
 - Neha Moolchandani - Junior - Computer Science - Infromation Systems & Finance - [GitHub](https://github.com/neha-m01)
-- Stephen Rogers - - Computer Science - [GitHub](https://github.com/grogersstephen)-
+- Stephen Rogers - - Computer Science - [GitHub](https://github.com/grogersstephen)
 - Sheila Subbiah - Management Information Systems - Masters - [Sheila's GitHub](https://github.com/userGitHub34535)
 - Darryl McIntosh - Senior - Computer Science - [Github](https://github.com/darrylkmc)
 - Elle Lohning - Junior - Computer Science - [Github](https://github.com/glohning)
@@ -67,6 +67,7 @@ Also notice how there is a little dash at the beginning
 - Aaqib Panjwani - Post Baccalaureate Degree Seek - Computer Science [GitHub](https://github.com/aaqibpanjwani)
 - Daniel Bockstege - Senior - computer science
 - Varshini Kaithapuram - Senior - Computer Science - [GitHub](https://github.com/varshinikaithapuram)
+- Seth Starnes - Junior - Computer Science - [GitHub](https://github.com/sethstarnes)
 - Jeremiah Steib - Freshman - Computer Science - [GitHUB](https://github.com/JtheMangaka)
 - Anna Amissah - Senior - Computer Science - [GitHub](https://github.com/bumbleBeeDev)
 Do not edit below this line.
