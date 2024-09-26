@@ -67,5 +67,6 @@ Also notice how there is a little dash at the beginning
 - Aaqib Panjwani - Post Baccalaureate Degree Seek - Computer Science [GitHub](https://github.com/aaqibpanjwani)
 - Daniel Bockstege - Senior - computer science
 - Varshini Kaithapuram - Senior - Computer Science - [GitHub](https://github.com/varshinikaithapuram)
+- Jeremiah Steib - Freshman - Computer Science - [GitHUB](https://github.com/JtheMangaka)
 - Anna Amissah - Senior - Computer Science - [GitHub](https://github.com/bumbleBeeDev)
 Do not edit below this line.
