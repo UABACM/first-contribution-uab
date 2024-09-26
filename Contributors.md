@@ -18,6 +18,7 @@ Also notice how there is a little dash at the beginning
 - Darryl McIntosh - Senior - Computer Science - [Github](https://github.com/darrylkmc)
 - Elle Lohning - Junior - Computer Science - [Github](https://github.com/glohning)
 - Tena Rosenblum
+- Alyx Smith - Junior - Computer Science - Art Studio - [GitHub](https://github.com/BluesMoth)
 - Dan Ngo - Junior - Computer Science [GitHub](https://github.com/DanNgo-png)
 - Vijay Raj Jain - Grad 1st year - Data Science - [GitHub](https://github.com/vijay0019)
 - Eli Davis - Senior - Computer Science - Japanese - [GitHub](https://github.com/Bekwayman)
