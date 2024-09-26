@@ -61,6 +61,7 @@ Also notice how there is a little dash at the beginning
 - Christopher B. Lentini - Junior - Computer Science - [Github](http://github.com/IllPigeon)
 - Anton Lu - Freshman - Computer Science - [GitHub](https://github.com/antonlu1029)
 - Aaqib Panjwani - Post Baccalaureate Degree Seek - Computer Science [GitHub](https://github.com/aaqibpanjwani)
+- Daniel Bockstege - Senior - computer science
 - Varshini Kaithapuram - Senior - Computer Science - [GitHub](https://github.com/varshinikaithapuram)
 Do not edit below this line.
 
