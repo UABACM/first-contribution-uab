@@ -38,17 +38,17 @@ Also notice how there is a little dash at the beginning
 - Bryant Barrentine - Senior - Neuroscience - Computer Science - [GitHub](https://github.com/bnb0xffff)
 - Joel Garner - Senior - Computer Science - Creative Writing - [GitHub] https://github.com/joeltgarner
 - Skyler Bolton - Senior - Computer Science - Accounting, Information Systems - [Github](https://github.com/SkylerBolton07)
-- Hamid Choucha -Senior- Computer Science -[GitHub],(https://github.com/hamidc10)
-- John Tompkins - Senior - Computer Science - [Github] (https://github.com/Scithur)
+- Hamid Choucha -Senior- Computer Science -[GitHub](https://github.com/hamidc10)
+- John Tompkins - Senior - Computer Science - [Github](https://github.com/Scithur)
 - Robert Gulley - senior - Computer Science - Mathematics -[Robert's Github](https://github.com/Robertlg2000)
-- Jacob Butcher - Freshman - Computer Science [Github] (https://github.com/JacobButcher-Github)
+- Jacob Butcher - Freshman - Computer Science [Github](https://github.com/JacobButcher-Github)
 - Jesse Lam - Senior - Computer Science - [GitHub](https://github.com/jesselam00)
 - Joseph Margolies - Senior - Computer Science - Political Science - [Github](https://github.com/JoeLauM)
 - John Contella - Senior - Computer Science - [Github](https://github.com/ContellaJP)
 - Bradley Vanderbilt - Senior - Computer Science - Mathematics - [GitHub](https://github.com/BradleyVanderbilt)
-- Zachary Naden - Senior - Computer science- No Minor- [GitHub]]https://github.com/znaden
-- Kyle Winn - Senior - Computer Science - Spanish - [GitHub] (https://github.com/williamkylewinn)
-- Trevor Bell - Senior - Computer Science - [GitHub] (https://github.com/BellBRO23)
+- Zachary Naden - Senior - Computer science- No Minor- [GitHub](https://github.com/znaden)
+- Kyle Winn - Senior - Computer Science - Spanish - [GitHub](https://github.com/williamkylewinn)
+- Trevor Bell - Senior - Computer Science - [GitHub](https://github.com/BellBRO23)
 - Logan Mottern - Senior - Computer Science - [GitHub](https://github.com/lmottern)
 - Tanner Tavel - Senior - Computer Science - [GitHub]
 - Jonathan Arroyo - Senior - Computer Science
@@ -59,11 +59,12 @@ Also notice how there is a little dash at the beginning
 - Caleb Sprinkle - Senior - Computer Science - [GitHub](https://github.com/csprinkl)
 - Raven Warner - Senior - Computer Science - [GitHub](https://github.com/r-x-w)
 - Yixuan Liu - Senior - Computer Science - [GitHub](https://github.com/Yixuan2022)
-- Venkata Anoora Reddy A - Senior - Computer Science - [GitHub](https://github.com/AnooraReddyUA
+- Venkata Anoora Reddy A - Senior - Computer Science - [GitHub](https://github.com/AnooraReddyUA)
 - Bhargav Saroj Kumar Y - Senior - Computer Science - [GitHub](https://github.com/bhargavsaroj)
 - Christopher B. Lentini - Junior - Computer Science - [Github](http://github.com/IllPigeon)
 - Anton Lu - Freshman - Computer Science - [GitHub](https://github.com/antonlu1029)
 - Aaqib Panjwani - Post Baccalaureate Degree Seek - Computer Science [GitHub](https://github.com/aaqibpanjwani)
 - Daniel Bockstege - Senior - computer science
 - Varshini Kaithapuram - Senior - Computer Science - [GitHub](https://github.com/varshinikaithapuram)
-  Do not edit below this line.
+- Anna Amissah - Senior - Computer Science - [GitHub](https://github.com/bumbleBeeDev)
+Do not edit below this line.
