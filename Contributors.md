@@ -25,6 +25,7 @@ Also notice how there is a little dash at the beginning
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
 - Jackson Hyde - Senior - Computer Science - [GitHub](https://github.com/choboribi)
 - Debbie Fu - Senior - Computer Science, Biology - Chemistry - [GitHub](https://github.com/debbiexfu)
+- Abigail Stewart - Senior - Computer Science - [Github](https://github.com/abbie-m)
 - Preet Patel - Senior - Computer Science - [GitHub](https://github.com/Preetp8)
 - Tay Richardson - Senior - Computer Science - [GitHub](https://github.com/crich725)
 - Anna Frederick - Senior - Computer Science - [GitHub](https://github.com/agfrederick)
