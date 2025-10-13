@@ -1,12 +1,12 @@
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![Discord Shield](https://discord.com/api/guilds/672280055128260617/widget.png?style=shield)
-# ACM @ UAB First Contributions
+# WIT @ UAB First Contributions
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below. This is a ACM @ UAB repository, check us out [here](https://acmatuab.org/) 
+This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below. This is a WIT @ UAB repository, check us out [here](https://www.instagram.com/uab_womenintech/). 
+
+This project is a fork of the guide created by Michael Gatahra for ACM @ UAB, you can find his work [here](https://github.com/Michaelgathara).
 
 ## Prerequisites
-1. A github account, make one [here](https://github.com)
+1. A GitHub account, make one [here](https://github.com)
 2. Git installed on your machine, install it [here](https://git-scm.com/downloads)
 You can test to see if you have git on your machine by opening a new terminal/cmd instance and typing 
 ```bash
@@ -127,4 +127,6 @@ Congrats! You just completed the standard _fork -> clone -> edit -> pull request
 
 Celebrate your contribution and share it with your friends and potential employers as proof of your ability to use Git and Github
 
-Join our Discord if you have any questions or need any help and just to be a part of the UAB CS community. We regularly update our Discord with ways for you to get more involved and learn about CS [Join Our Discord](https://acmatuab.org/discord).
+Join our Discord if you have any questions or need any help and just to be a part of the UAB CS community. We regularly update our Discord with ways for you to get more involved and learn about CS 
+[WIT @ UAB Discord](https://discord.com/invite/duxU6JpDgs)
+[ACM @ UAB Discord](https://acmatuab.org/discord).
